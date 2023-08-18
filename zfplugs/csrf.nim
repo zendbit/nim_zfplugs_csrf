@@ -11,6 +11,8 @@
 import json
 import std/md5
 import std/sha1
+import checksums/sha1
+import checksums/md5
 import std/random
 import macros
 
